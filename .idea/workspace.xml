@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -63,6 +66,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "dev",
     "last_opened_file_path": "/Users/mao/PycharmProjects/api_test_pytest",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -363,7 +370,7 @@
       <workItem from="1663673195116" duration="588000" />
       <workItem from="1719523194629" duration="203000" />
       <workItem from="1719523492700" duration="191000" />
-      <workItem from="1719523896600" duration="153000" />
+      <workItem from="1719523896600" duration="845000" />
     </task>
     <task id="LOCAL-00001" summary="完善测试用例功能编写，添加日志文件到git。待完善内容：Assertion.py文件中，返回体为txt或json时的区分处理">
       <created>1641907908314</created>
